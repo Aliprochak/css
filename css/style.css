@@ -1,0 +1,94 @@
+h1{
+    color: darkmagenta;
+    text-align: center;
+    background-color: #52BE80;
+}
+.body1{
+    color: aqua;
+    background-color:#8E44AD;
+    font-size: 20px;
+    text-align: justify;
+    text-decoration-line: initial;
+    text-align-last:center;
+    word-spacing: 5px;
+    font-family: "Kode Mono", monospace;
+}
+.body2{
+    color: #66d616 ;
+    background-color: rgb(201, 73, 182);
+    font-size: 10px;
+    text-align: justify;
+    text-decoration-line: inherit;
+    text-align-last:center;
+    font-size: 20px;
+    font-style: oblique;
+}
+.text{
+    color: rgb(9, 148, 72);
+    background-color: rgb(120, 19, 36);
+    font-size: 20px;
+    text-transform: uppercase;
+    word-spacing: 10px;
+    letter-spacing: 10px;
+    text-decoration-style: wavy;
+}
+#test-1{
+    width: 200px;
+    height: 150px;
+    background-color: chocolate;
+    word-spacing: 3px;
+    letter-spacing: 5px;
+    text-align: center;
+    
+}
+#test-2{
+    width:200px;
+    height: 150px;
+    background-color: cornflowerblue;
+    line-height: 20px;
+    font-style: italic;
+    
+}
+#box-1{
+    width: 150px;
+    height: 50px;
+    color: #0d0da3;
+    background-color: #d935bb;  
+    text-align: center;
+    font-size: 30px; 
+    line-height: 50px; 
+}
+#box-2{
+    width: 150px;
+    height: 50px;
+    color: rgb(19, 216, 193);
+    background-color: #4a0a66;
+    text-align: center;
+    font-size:30px ;
+    line-height: 50px;
+}
+#box-3{
+    width: 150px;
+    height: 50px;
+    color: chartreuse;
+    background-color: #4343d3;
+    text-align: center;
+    font-size:30px;
+    line-height: 50px;
+}
+#box-4{
+    width: 150px;
+    height: 50px;
+    color: #1d097d;
+    background-color: #52BE80;
+    font-size: 30px;
+    line-height: 50px;
+}
+#box-5{
+    width: 150px;
+    height: 50px;
+    color: rgb(200, 206, 20);
+    background-color: #8E44AD;
+    font-size: 30px;
+    line-height: 50px;
+}
